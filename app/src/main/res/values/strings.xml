@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cards Against Humanity</string>
+    <string name="app_logo">Cards Against \nHumanity </string>
+    <string name="app_subtitle">A party game for horrible people</string>
+    <string name="new_game">Novo\nJogo</string>
+    <string name="enter_game">Entrar\nem um\njogo</string>
+
+</resources>
